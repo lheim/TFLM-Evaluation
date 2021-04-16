@@ -1,0 +1,8 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+tikzplotlib
+ipywidgets
+rocketlogger
