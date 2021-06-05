@@ -1,8 +1,11 @@
+flatbuffers
+ipywidgets
 jupyterlab
+matplotlib
 numpy
 pandas
-matplotlib
+pyserial
 seaborn
-tikzplotlib
-ipywidgets
-rocketlogger
+ipympl
+keras-flops
+scipy
